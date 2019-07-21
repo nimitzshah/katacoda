@@ -1,0 +1,32 @@
+{
+  "title": "Understanding How to Select with SQL",
+  "description": "This lesson aims to provide a tutorial where you can spin up your own postgres database and play around with some dummy data. We want to cover simple basics like select, join, from, where, gruoup by.",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md"
+      },
+      {
+        "title": "Step 2",
+        "text": "step2.md"
+      },
+      {
+        "title": "Step 3",
+        "text": "step3.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "docker"
+  }
+}
